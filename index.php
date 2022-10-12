@@ -8,5 +8,6 @@
 <body>
         <h1><?php echo 'Hello, World!'; ?></h1>
         <h1><?php echo 'Vachira 62010914609'; ?></h1>
+        <h1><?php echo 'Resume'; ?></h1>
 </body>
 </html>
